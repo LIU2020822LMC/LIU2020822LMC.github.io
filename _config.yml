@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 欢迎来到LMC的个人博客
 subtitle: ''
-description: ''
+description: '记录自己的技术见解及其它觉得有意义的事情'
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: LMC
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -96,9 +96,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: maupassant
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repository: https://github.com/LIU2020822LMC/LMC-Blog.github.io.git
+  branch: main
