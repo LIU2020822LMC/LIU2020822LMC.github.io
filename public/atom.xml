@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-04-13T09:07:29.256Z</updated>
+  <updated>2025-04-13T14:31:04.565Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第二篇文章</title>
+    <link href="http://example.com/2025/04/13/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://example.com/2025/04/13/%E7%AC%AC%E4%BA%8C%E7%AF%87%E6%96%87%E7%AB%A0/</id>
+    <published>2025-04-13T14:27:22.000Z</published>
+    <updated>2025-04-13T14:31:04.565Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="文章标题"><a href="#文章标题" class="headerlink" title="文章标题"></a>文章标题</h1><h2 id="子标题"><a href="#子标题" class="headerlink" title="子标题"></a>子标题</h2><p>这是一段正文内容。  </p><pre><code class="python">print(&quot;Hello World!&quot;)</code></pre>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;文章标题&quot;&gt;&lt;a href=&quot;#文章标题&quot; class=&quot;headerlink&quot; title=&quot;文章标题&quot;&gt;&lt;/a&gt;文章标题&lt;/h1&gt;&lt;h2 id=&quot;子标题&quot;&gt;&lt;a href=&quot;#子标题&quot; class=&quot;headerlink&quot; title=&quot;子标题&quot;&gt;&lt;/a&gt;子标</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>LMC的第一篇文章</title>
