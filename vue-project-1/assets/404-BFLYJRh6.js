@@ -1,0 +1,1 @@
+import{_ as c,g as e,o}from"./index-DAi-ItSl.js";const s={},t={class:"body-404"};function _(a,n){return o(),e("div",t)}const d=c(s,[["render",_],["__scopeId","data-v-c21a3d47"]]);export{d as default};
